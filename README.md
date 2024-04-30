@@ -50,5 +50,13 @@ These files are part of the course on quantum computing. The video lectures and 
 
 21- [Phase Oracles and Grover Algorithm with different initial state](https://www.youtube.com/watch?v=t9F9l2_Z__4)
 
+22- [Quantum Fourier Transform](https://www.youtube.com/watch?v=8z7uoYaW15s)
+
 23- [Implementation of quantum Fourier transform in Qiskit](https://www.youtube.com/watch?v=e44wKN4qWsk)
+
+24- [Theory and Qiskit Implementation of Quantum Phase Estimation](https://www.youtube.com/watch?v=uXmmB_tP3Q8)
+
+25- [Quantum Counting Algorithm](https://www.youtube.com/watch?v=8MS8-Xwz45k)
+
+26- [Quantum Search Algorithm using Quantum Simulation](https://www.youtube.com/watch?v=V_so-LK6d44)
 
